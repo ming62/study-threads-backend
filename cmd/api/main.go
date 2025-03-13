@@ -43,7 +43,7 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "050602Lmy?!050602Lmy?!"
+	password = ""
 	dbname   = "go_threads"
 )
 
